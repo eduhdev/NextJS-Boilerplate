@@ -1,5 +1,5 @@
-import Main from '.'
 import { withKnobs, text } from '@storybook/addon-knobs'
+import Main from '.'
 
 export default {
   title: 'Main',
